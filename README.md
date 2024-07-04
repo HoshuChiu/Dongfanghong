@@ -5,7 +5,7 @@
 
 效果见： https://www.bilibili.com/video/BV1wthnePESs
 ## 音调
-音阶以A1=432Hz为基准，采用五度相生律得到音阶。
+音阶以A4=432Hz为基准，采用五度相生律得到音阶。
 
 提供C major和F major两种调，在switcher下降沿切换。
 

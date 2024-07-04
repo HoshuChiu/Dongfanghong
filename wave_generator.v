@@ -1,6 +1,6 @@
 /**
 * Tune Base:
-* A1=432Hz, scaled with Pythagorean tuning
+* A4=432Hz, scaled with Pythagorean tuning
 * Tune code is referenced from file tune_generator.v
 * switcher signal is used to switch between F major mode and C major mode.
 */

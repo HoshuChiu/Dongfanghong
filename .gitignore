@@ -6,3 +6,9 @@ simulation/
 *.bin
 *.prg
 *.bak
+*.tcl
+*.qsf
+*.qpf
+*.qws
+*.sdc
+*.qdf

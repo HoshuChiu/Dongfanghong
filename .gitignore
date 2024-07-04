@@ -1,0 +1,8 @@
+alta_db/
+alta_logs/
+db/
+simulation/
+*.hyb
+*.bin
+*.prg
+*.bak
